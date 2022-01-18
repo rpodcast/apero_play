@@ -4,6 +4,7 @@ authors:
 - author: "Eric Nantz"
   role: "Creator & Host"
   avatar_shape: rounded # circle, square, rounded, leave blank to exclude
+  avatar_image: eric-avatar.png
   show_social_links: true # specify social accounts in site config
   audio_link_label: "How to say my name" # leave blank to exclude
   link_list_label: "Interests" # bookmarks, elsewhere, etc.
@@ -16,7 +17,8 @@ authors:
     url: https://en.wikipedia.org/wiki/People
 - author: "Curtis Kephart"
   role: "Contributor"
-  avatar_shape: rounded # circle, square, rounded, leave blank to exclude
+  avatar_shape: rounded 
+  avatar_image: kurtis-avatar.png
   show_social_links: false 
   audio_link_label: "How to say my name" # leave blank to exclude
   link_list_label: "Links"
