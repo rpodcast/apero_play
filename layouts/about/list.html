@@ -45,6 +45,7 @@
         {{ end }}
 
     <!--begin sidebar-->
+    
     {{ $sidebar := printf "/%s/%s" .Section "sidebar/index.md" }}
     {{ $sidebar_pg := site.GetPage $sidebar }}
     {{ with $sidebar_pg }}
@@ -53,7 +54,8 @@
 
             <div class="pt3 pb1 pb2-ns tc ph4">
               {{ if .avatar_shape }}
-                {{- $avatar := ($sidebar_pg.Resources.ByType "image").GetMatch "*avatar*" -}}
+                <!--{{- $avatar := ($sidebar_pg.Resources.ByType "image").GetMatch "*avatar*" -}}-->
+                {{- $avatar := ($sidebar_pg.Resources.ByType "image").GetMatch .avatar_image -}}
                 {{ $avatar_shape := .avatar_shape | default "circle" }}
                 {{ with $avatar }}
                   <img src="{{ .RelPermalink }}" class="h4 w4 dib {{if eq $avatar_shape "rounded"}}br3{{end}}{{if eq $avatar_shape "circle"}}br-100{{end}}" alt="avatar">
@@ -83,7 +85,19 @@
             <div class="pa1 pa2-ns tc ph4">
               <h5 class="f-subheadline f4 fw2 ttu tracked">{{ .link_list_label }}</h5>
               <ul class="list measure center ph4 pb4">
-                {{ partial "shared/about-links" . }}
+                {{ range .link_list }}
+                  {{ $link := .url }}
+                  {{ $scheme := (urls.Parse $link).Scheme }}
+                  {{ $target := "" }}
+                  {{ if not $scheme }}
+                    {{ $link = .url | relLangURL }}
+                  {{ else if in (slice "http" "https") $scheme }}
+                    {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+                  {{ end }}
+                  <li class="lh-copy pv2 ba bl-0 bt-0 br-0 b--dotted b--black-20">
+                    <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>{{ .name }}</a>
+                  </li>
+                {{ end }}
               </ul>
             </div>
           {{ end }}
