@@ -39,6 +39,8 @@ params:
   logo: /img/blogophonic-mark-dark.png
   mainSections:
     - blog
+    - interview
+    - guest
     - project
     - talk
   math:
@@ -98,9 +100,13 @@ menu:
       title: Blog
       url: /blog/
       weight: 2
-    - name: Projects
-      title: Project Portfolio
-      url: /project/
+    - name: Interviews
+      title: Interviews
+      url: /interview/
+      weight: 3
+    - name: Guests
+      title: Interview Guests
+      url: /guest/
       weight: 3
     - name: Talks
       title: Talks
