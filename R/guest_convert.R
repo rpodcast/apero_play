@@ -8,7 +8,7 @@ library(blogdown)
 #   with icon = "link", icon_pack = "fas", name and url as the actual link
 # - rename file name of image to "featured" (keep extension same)
 
-prev_guest_dir <- "R/guest"
+prev_guest_dir <- "prototypng/guest"
 new_guest_dir <- "content/guest"
 
 # grab paths of directories in the prev guest dir
