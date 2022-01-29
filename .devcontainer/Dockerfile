@@ -56,15 +56,17 @@ RUN echo "RENV_PATHS_CACHE=/renv/cache" >> /usr/local/lib/R/etc/Renviron
 # copy the modified .Rprofile template to the renv cache
 COPY library-scripts/.Rprofile-vscode /renv/.Rprofile-vscode
 
+# [Optional] Uncomment this section to add addtional system dependencies needed for project
+RUN apt-get update \
+    && export DEBIAN_FRONTEND=noninteractive \
+    && apt-get -y install --no-install-recommends curl
+
 # [Optional] Uncomment this section to add Hugo to the container
 # Customize version number as appropriate
 RUN curl -L https://github.com/gohugoio/hugo/releases/download/v0.92.0/hugo_extended_0.92.0_Linux-64bit.deb -o /tmp/hugo.deb
 RUN apt-get -y install ./tmp/hugo.deb
 
-# [Optional] Uncomment this section to add addtional system dependencies needed for project
-# RUN apt-get update \
-#     && export DEBIAN_FRONTEND=noninteractive \
-#     && apt-get -y install --no-install-recommends ---packages list----
+
 
 # [Optional] Uncomment this section for linking a local pusleaudio sound system on a linux host
 # to the container.

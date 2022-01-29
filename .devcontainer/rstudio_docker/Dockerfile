@@ -4,7 +4,7 @@
 # - license: GPLV2
 ##################################################################################################################################################################
 
-FROM rocker/r-ver:4.0.3
+FROM rocker/r-ver:4.1.0
 
 ENV S6_VERSION=v2.1.0.2
 ENV RSTUDIO_VERSION=latest
@@ -36,10 +36,16 @@ RUN pip3 install radian
 
 RUN echo "RENV_PATHS_CACHE=/renv/cache" >> /usr/local/lib/R/etc/Renviron
 
-# [Optional] Uncomment this section to add addtional system dependencies needed for project
-ADD https://github.com/gohugoio/hugo/releases/download/v0.79.0/hugo_extended_0.79.0_Linux-64bit.tar.gz /hugo.tar.gz
-RUN tar -zxvf hugo.tar.gz
-RUN cp /hugo /usr/local/bin/hugo
+# install key dependencies of certain packages that could be installed later
+RUN apt-get update \
+    && export DEBIAN_FRONTEND=noninteractive \
+    && apt-get -y install --no-install-recommends curl
+    
+# [Optional] Uncomment this section to add Hugo to the container
+# Customize version number as appropriate
+RUN curl -L https://github.com/gohugoio/hugo/releases/download/v0.92.0/hugo_extended_0.92.0_Linux-64bit.deb -o /tmp/hugo.deb
+RUN apt-get -y install ./tmp/hugo.deb
+
 
 EXPOSE 8787
 

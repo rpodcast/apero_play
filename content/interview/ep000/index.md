@@ -1,11 +1,15 @@
 ---
 draft: no
 excerpt: '`shinydevseries::sesion_info()`'
-layout: single
-social: 
+layout: single-series
 title: 'Episode 0: Launch!'
 date: '2019-04-18'
-description: This is the special kickoff of the Shiny Developer Series!  In this episode,Eric shares his journey with Shiny and the exciting plans for future content, especially in collaboration with the [RStudio Community](https://community.rstudio.com/). Plus a demonstration of the [`shinyhelper`](https://github.com/cwthom/shinyhelper) package to enhance in-app documentation with markdown!
+description: This is the special kickoff of the Shiny Developer Series!  In this episode,
+  Eric shares his journey with Shiny and the exciting plans for future content, especially
+  in collaboration with the [RStudio Community](https://community.rstudio.com/). Plus
+  a demonstration of the [`shinyhelper`](https://github.com/cwthom/shinyhelper) package
+  to enhance in-app documentation with markdown!
+guests: ''
 youtube: GF4mKrLt2CM
 ---
 
