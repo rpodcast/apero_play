@@ -79,6 +79,13 @@
       "Repository": "RSPM",
       "Hash": "77bd60a6157420d4ffa93b27cf6a58b8"
     },
+    "fs": {
+      "Package": "fs",
+      "Version": "1.5.2",
+      "Source": "Repository",
+      "Repository": "RSPM",
+      "Hash": "7c89603d81793f0d5486d91ab1fc6f1d"
+    },
     "glue": {
       "Package": "glue",
       "Version": "1.6.0",
@@ -162,6 +169,13 @@
       "Source": "Repository",
       "Repository": "RSPM",
       "Hash": "4ab2c43adb4d4699cf3690acd378d75d"
+    },
+    "purrr": {
+      "Package": "purrr",
+      "Version": "0.3.4",
+      "Source": "Repository",
+      "Repository": "RSPM",
+      "Hash": "97def703420c8ab10d8f0e6c72101e02"
     },
     "renv": {
       "Package": "renv",
