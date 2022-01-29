@@ -10,6 +10,7 @@
         {{ if .Params.show_post_date }}<p class="f7 db mv0 ttu">{{ .PublishDate.Format "January 2, 2006" }}</p>{{ end }}
       </header>
       <section class="post-body pt5 pb4">
+        {{ .Params.description | markdownify }}
         {{ partial "shared/youtube.html" . }}
         {{ .Content }}
       </section>

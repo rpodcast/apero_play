@@ -9,6 +9,10 @@ links:
   url: https://rstudio.com
 - icon: video
   icon_pack: fas
+  name: E5
+  url: https://shinydevseries.com/ep5
+- icon: video
+  icon_pack: fas
   name: E21
   url: https://shinydevseries.com/ep21
 social:
