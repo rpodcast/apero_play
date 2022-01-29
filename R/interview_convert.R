@@ -15,24 +15,30 @@ new_dir <- "content/interview"
 prev_paths <- fs::dir_ls(prev_dir, type = "file")
 
 purrr::walk(prev_paths, ~{
-  browser()
   # import previous file header
+  message(glue::glue("processing {path}", path = .x))
   prev_header <- rmarkdown::yaml_front_matter(.x)
-  
-  prev_header$layout <- "single"
 
   # obtain guest from the episode
-  # TODO: Finish processing
+  guests <- prev_header$authors
 
+  if (length(guests) == 1) {
+    if (guests == "admin") {
+      guests <- ""
+    }
+  } else {
+    guests <- guests[!guests %in% c("admin", "ckephart")]
+  }
   
   # create new header to match theme archetype
   new_header <- list(
     draft = FALSE,
     excerpt = prev_header$summary,
-    layout = "single",
+    layout = "single-series",
     title = prev_header$title,
     date = prev_header$date,
     description = prev_header$description,
+    guests = guests,
     youtube = prev_header$youtube
   )
 
@@ -56,6 +62,4 @@ purrr::walk(prev_paths, ~{
   episode_dir <- fs::dir_create(fs::path(new_dir, episode_print))
 
   writeLines(text = c("---", header_convert, "---\n", markdown_text), con = file(fs::path(episode_dir, "index.md")))
-
-
 })
