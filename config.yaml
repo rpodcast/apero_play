@@ -1,5 +1,5 @@
 baseURL: /
-theme: hugo-apero
+theme: "hugo-apero"
 languageCode: en
 title: Shiny Developer Series
 author: Eric Nantz
@@ -30,12 +30,13 @@ markup:
     ordered: no
     startLevel: 2
 params:
-  custom_theme: shinydevseries
-  customheadingFontFamily: Fraunces
-  customtextFontFamily: Commissioner
+  custom_theme: shinydevseries_dark
+  customheadingFontFamily: 'Titillium Web'
+  customtextFontFamily: 'Saira'
   description: Description for Shiny Dev Series.
   favicon: /img/favicon.ico
-  headingFontFamily: sans-serif
+  headingFontFamily: ''
+  textFontFamily: ''
   logo: /img/shinydevseries_hex.png
   mainSections:
     - blog
@@ -61,9 +62,14 @@ params:
     - icon: rss
       icon_pack: fas
       url: /blog/index.xml
+    - icon: twitch
+      icon_pack: fab
+      url: https://twitch.tv/rpodcast
+    - icon: microphone
+      icon_pack: fas
+      url: https://r-podcast.org
   socialInFooter: yes
   socialInHeader: no
-  textFontFamily: sans-serif
   theme: ''
   twitter: shinydevseries
   utterances:
