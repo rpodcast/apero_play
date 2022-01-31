@@ -11,7 +11,8 @@ description: In this packed episode of the Shiny Developer Series, we are joined
   of John's highly-regarded Coronavirus mobile-first Shiny application, how you can
   use his excellent {waiter} and {server} packages to improve user experience, and
   much more!
-guests: jcoene
+guests: 
+- jcoene
 youtube: DOjbKYJ8R_s
 ---
 

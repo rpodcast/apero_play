@@ -12,7 +12,8 @@ description: 'In episode 12 of the Shiny Developer Series, we begin a multi-part
   interactive demonstrations of `reactlog` applied to simple and complex applications
   to pinpoint various issues on reactive logic and the flow of information from inputs
   to outputs. '
-guests: bschloerke
+guests: 
+- bschloerke
 youtube: RcnfYcSsY8w
 ---
 

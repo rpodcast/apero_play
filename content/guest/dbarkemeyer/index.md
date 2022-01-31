@@ -2,6 +2,7 @@
 draft: no
 excerpt: Student
 layout: single
+date: '2021-11-12'
 links:
 - icon: link
   icon_pack: fas

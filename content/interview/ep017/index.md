@@ -11,7 +11,8 @@ description: In episode 17 of the Shiny Developer Series, we welcome one of the 
   world of Shiny, updates to his excellent open-source packages like {shinyalert}
   and the brand-new {shinyscreenshot}, the origins of Attali Tech, and his new journey
   to becoming a full-time open-source R and Shiny developer!
-guests: dattali
+guests: 
+- dattali
 youtube: yRGJDtOUP3Y
 ---
 

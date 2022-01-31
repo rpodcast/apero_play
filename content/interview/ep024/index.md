@@ -12,7 +12,8 @@ description: In episode 24 of the Shiny Developer Series, we kick off a series o
   capabilities that greatly enhance the user experience and backend infrastructure.
   Throughout the episode, you will hear David's perspectives on effective techniques
   to manage application state, integration of custom javascript, and much more!
-guests: dbarkemeyer
+guests: 
+- dbarkemeyer
 youtube: QzmrhPmKByA
 ---
 

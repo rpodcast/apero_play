@@ -2,6 +2,7 @@
 draft: no
 excerpt: Professional Educator
 layout: single
+date: '2020-03-10'
 links:
 - icon: link
   icon_pack: fas

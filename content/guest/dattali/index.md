@@ -2,6 +2,7 @@
 draft: no
 excerpt: Shiny Consultant and Entrepeneur
 layout: single
+date: '2020-12-05'
 links:
 - icon: link
   icon_pack: fas

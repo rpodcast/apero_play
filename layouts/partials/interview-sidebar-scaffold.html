@@ -1,0 +1,22 @@
+{{ $page := . }}                       <!--save current page-->
+{{ $section := $page.CurrentSection }} <!--save current section-->
+{{ $is_root := eq .CurrentSection .FirstSection }}
+{{ $guestpages := (where .Site.RegularPages "Section" "guest") }}
+
+<!--{{ partial "shared/sidebar/sidebar-image.html" $page }}-->
+
+<div class="blog-info ph4 pt4 pb4 pb0-l">
+  {{ partial "interview-sidebar-header.html" $section }}
+  <!--{{ partial "interview-sidebar-guest.html" .Params.guests }}-->
+  {{ range $guestpages }}
+    <p>{{ . }}</p>
+  {{ end }}
+  {{ range .Params.guests }}
+    {{ $guest := . }}
+
+    <p>{{ $guest }}</p>
+  {{ end }}
+  {{ partial "interview-sidebar-link.html" .Params.sidebar }}
+</div>
+
+{{ partial "shared/sidebar/sidebar-adunit.html" .Params.sidebar }}

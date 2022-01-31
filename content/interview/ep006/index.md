@@ -12,7 +12,8 @@ description: In this webinar originally broadcast live in partnership with RStud
   power of JQuery for Shiny.  Enjoy a comprehensive demonstration of the package features
   and visit the follow-up  [thread](https://community.rstudio.com/t/follow-up-thread-for-webinar-yang-tang-on-advanced-ui-the-motivation-and-use-cases-of-shinyjqui/43217)
   on [RStudio Community!](https://community.rstudio.com) to continue the discussion!
-guests: ytang
+guests: 
+- ytang
 youtube: hy1LKmRwhmY
 ---
 
@@ -24,4 +25,3 @@ youtube: hy1LKmRwhmY
 * R Packages second edition: [r-pkgs.org](https://r-pkgs.org/)
 * Advanced R second edition: [adv-r.hadley.nz](https://adv-r.hadley.nz/)
 * `{pkgdown}` - Build websites for R packages: [pkgdown.r-lib.org](https://pkgdown.r-lib.org/)
-

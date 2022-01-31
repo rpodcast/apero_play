@@ -11,7 +11,8 @@ description: We conclude our multi-part series with RStudio software engineer Ba
   as the eye-catching naniar missing values tutorial by Allison Horst.  Plus we get
   a preview of the great features coming up in the next release, and advice for Shiny
   developers looking to bring their skills to the next level.
-guests: bschloerke
+guests: 
+- bschloerke
 youtube: zqV4nUiO7-4
 ---
 

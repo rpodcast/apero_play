@@ -14,7 +14,8 @@ description: In this webinar originally broadcast live in partnership with RStud
   to quickly prototype D3 javascript visualizations directly in R. If you would like
   to continue the discussion please visit the dedicated [thread](https://community.rstudio.com/t/follow-up-thread-for-webinar-shinysense-and-custom-javascript-visualizations/39767)
   at the [RStudio Community!](https://community.rstudio.com)
-guests: nstrayer
+guests: 
+- nstrayer
 youtube: W-yifR-RtFY
 ---
 

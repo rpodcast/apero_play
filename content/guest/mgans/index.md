@@ -2,6 +2,7 @@
 draft: no
 excerpt: Statistical Programmer & Data Scientist
 layout: single
+date: '2020-10-22'
 links:
 - icon: link
   icon_pack: fas

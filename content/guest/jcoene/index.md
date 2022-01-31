@@ -2,6 +2,7 @@
 draft: no
 excerpt: Developer and Entrepeneur
 layout: single
+date: '2020-07-07'
 links:
 - icon: link
   icon_pack: fas

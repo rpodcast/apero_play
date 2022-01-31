@@ -10,7 +10,8 @@ description: The Shiny Developer Series is back!  In our first session of 2020, 
   (including a major revision of the Shiny Gallery) and the insights RStudio gained
   from the Shiny Contest.  Also Mine shares her advice on developing educational material
   for Shiny users and where she sees future opportunities in this evolving space.
-guests: mrundel
+guests: 
+- mrundel
 youtube: eGpTXM0hUqA
 ---
 

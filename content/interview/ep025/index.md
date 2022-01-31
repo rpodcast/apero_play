@@ -14,7 +14,8 @@ description: One of my biggest joys of the Shiny Developer Series is watching th
   development of a Shiny app integrating customized HTML templates, and even a little
   real-time consulting on using his brand-new brochure package for a fun learning
   project!
-guests: cfay
+guests: 
+- cfay
 youtube: agwgiLpiBFo
 ---
 

@@ -2,6 +2,7 @@
 draft: no
 excerpt: Shiny consultant & developer
 layout: single
+date: '2021-05-07'
 links:
 - icon: link
   icon_pack: fas

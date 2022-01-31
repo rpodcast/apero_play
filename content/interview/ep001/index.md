@@ -12,7 +12,8 @@ description: In this joint production with RStudio Community, I had the pleasure
   the user interface and new integrations. If you would like to provide feedback or
   ask questions, please visit the dedicated [thread](https://community.rstudio.com/t/shiny-developer-series-episode-1-follow-up-thread/29491)
   on the RStudio Community portal!
-guests: wchang
+guests: 
+- wchang
 youtube: kAYcIidygiU
 ---
 
@@ -22,4 +23,3 @@ youtube: kAYcIidygiU
 * `reactR` package for using the `React` javascript framework directly with R: [react-r.github.io/reactR/index.html](https://react-r.github.io/reactR/index.html)
 * [It depends: A dialog about dependencies](https://resources.rstudio.com/rstudio-conf-2019/it-depends-a-dialog-about-dependencies) by Jim Hester (`rstudio::conf` 2019)
 * Follow-up [thread](https://community.rstudio.com/t/shiny-developer-series-episode-1-follow-up-thread/29491) for the episode on RStudio Community
-

@@ -12,7 +12,8 @@ description: In this webinar originally broadcast live in partnership with RStud
   keep you on the right development path, and much more!  You can keep the discussion
   going by visiting the episode  [thread](https://community.rstudio.com/t/shiny-developer-series-episode-2-follow-up-thread-colin-fay-on-golem-and-effective-shiny-development-methods/32618)
   on the RStudio Community portal!
-guests: cfay
+guests: 
+- cfay
 youtube: OU1-CkSVdTI
 ---
 

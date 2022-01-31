@@ -10,7 +10,8 @@ description: In episode 16 of the Shiny Developer Series, we welcome software de
   her friends and family too!  We dive deep into her innovative DT-Editor Shiny module,
   as well as how she developed packages based on htmlwidgets such as the flashCard
   package for teaching yourself new concepts.
-guests: jmclellan
+guests: 
+- jmclellan
 youtube: VhyIKMFDTl4
 ---
 
@@ -26,7 +27,6 @@ youtube: VhyIKMFDTl4
 * Demo app for flashcards teaching Python syntax: [appforiarteam.shinyapps.io/flashCard_demo](https://appforiarteam.shinyapps.io/flashCard_demo/)
 * Jiena's codepen for practice flash card syntax: [codepen.io/Jienagu/pen/qBdNbVy](https://codepen.io/Jienagu/pen/qBdNbVy)
 * `{forestry}` R package with utility functions to help with reshaping hierarchy of data trees: [github.com/jienagu/forestry](https://github.com/jienagu/forestry)
-
 
 ## Episode Timestamps
 

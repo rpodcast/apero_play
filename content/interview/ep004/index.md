@@ -10,7 +10,8 @@ description: In [episode 4](/ep4) of the Shiny Developer Series, [David Granjon]
   screencast, David provides a comprehensive tutorial of the many features offered
   by [`{bs4Dash}](https://github.com/RinteRface/bs4Dash). If you ever wanted to see
   the magic behind creating robust dashboards, this screencast is for you!
-guests: dgranjon
+guests: 
+- dgranjon
 youtube: vaK3sknxe4c
 ---
 
@@ -19,4 +20,3 @@ youtube: vaK3sknxe4c
 * Shiny Developer Series Episode 4: [shinydevseries.com/ep4](https://shinydevseries.com/ep4)
 * `{bs4Dash}` - Bootstrap 4 shinydashboard using AdminLTE3:  [rinterface.github.io/bs4Dash](https://rinterface.github.io/bs4Dash/)
 * RInterface: [rinterface.com](https://rinterface.com/)
-

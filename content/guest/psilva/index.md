@@ -2,6 +2,7 @@
 draft: no
 excerpt: Software engineer
 layout: single
+date: '2021-10-15'
 links:
 - icon: link
   icon_pack: fas
@@ -24,4 +25,4 @@ social:
 title: Pedro da Silva
 ---
 
-Pedro Manuel Coutinho da Silva is a frontend and R Shiny developer at Appsilon, a consulting company specializing in developing workflows and unique R Shiny solutions, open-source packages, and machine learning products. Pedro has extensive experience as a front-end software engineer before coming to Appsilon and quickly became a fan of Shiny for web application development. 
+Pedro Manuel Coutinho da Silva is a frontend and R Shiny developer at Appsilon, a consulting company specializing in developing workflows and unique R Shiny solutions, open-source packages, and machine learning products. Pedro has extensive experience as a front-end software engineer before coming to Appsilon and quickly became a fan of Shiny for web application development.

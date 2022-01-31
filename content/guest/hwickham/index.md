@@ -2,6 +2,7 @@
 draft: no
 excerpt: Chief Scientist
 layout: single
+date: '2021-03-10'
 links:
 - icon: link
   icon_pack: fas

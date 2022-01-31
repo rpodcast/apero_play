@@ -2,6 +2,7 @@
 draft: no
 excerpt: Data scientist at ThinkR
 layout: single
+date: '2021-12-03'
 links:
 - icon: link
   icon_pack: fas

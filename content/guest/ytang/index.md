@@ -2,6 +2,7 @@
 draft: no
 excerpt: Senior scientist at Roche
 layout: single
+date: '2019-10-25'
 links:
 - icon: link
   icon_pack: fas

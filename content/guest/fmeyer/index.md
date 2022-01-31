@@ -2,6 +2,7 @@
 draft: no
 excerpt: Data Wizard & co-founder of dreamRs
 layout: single
+date: '2019-11-15'
 links:
 - icon: link
   icon_pack: fas

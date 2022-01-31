@@ -8,7 +8,7 @@ cascade:
     show_sidebar_adunit: true
     text_link_label: View all guests
     text_link_url: /guest/
-description: A gallery of the previous guests on the Shiny Dev Series!
+description: A gallery of the previous guests on the Shiny Dev Series! Ordered by most recent appearance on the series.
 layout: list-grid
 show_author_byline: true
 show_button_links: true

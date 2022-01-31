@@ -17,7 +17,8 @@ description: Earlier this year at RStudio Global, a lot of excitement among the 
   many industries such as life sciences. I hope you enjoy this episode and don't forget
   to subscribe to our channel so you can be first to know when future episodes are
   available!
-guests: csievert
+guests: 
+- csievert
 youtube: xTafvYX3zmE
 ---
 

@@ -11,7 +11,8 @@ description: In episode 18 of the Shiny Developer Series, we chat about how Shin
   customers across a wide range of industries. We also hear Tanya's advice on development
   techniques and which skills she recommends developers level up with. I hope you
   enjoy this excellent episode!
-guests: tcashorali
+guests: 
+- tcashorali
 youtube: LjN1khZrppo
 ---
 
@@ -34,7 +35,7 @@ youtube: LjN1khZrppo
 
 [21:45](https://www.youtube.com/watch?v=LjN1khZrppo&t=21m45s) Demo 2: Rapid Blood Testings - Monitoring Streaming Alerts
 
-[28:40](https://www.youtube.com/watch?v=LjN1khZrppo&t=28m40s) Advice for people that need to integrate Shiny with different systems. 
+[28:40](https://www.youtube.com/watch?v=LjN1khZrppo&t=28m40s) Advice for people that need to integrate Shiny with different systems.
 
 [31:30](https://www.youtube.com/watch?v=LjN1khZrppo&t=31m30s) Arrow is fast and makes connecting with other systems easy.
 

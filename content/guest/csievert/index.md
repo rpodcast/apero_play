@@ -2,6 +2,7 @@
 draft: no
 excerpt: Software Engineer
 layout: single
+date: '2021-07-16'
 links:
 - icon: link
   icon_pack: fas

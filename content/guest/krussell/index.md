@@ -2,6 +2,7 @@
 draft: no
 excerpt: Financial analyst and R package author
 layout: single
+date: '2022-01-03'
 links:
 - icon: video
   icon_pack: fas

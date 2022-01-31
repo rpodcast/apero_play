@@ -1,5 +1,5 @@
 ---
-author: The Shiny Dev Series Team
+author: ""
 cascade:
   author: The Shiny Dev Series Team
   show_author_byline: true
@@ -7,7 +7,7 @@ cascade:
   show_post_date: true
   sidebar:
     show_sidebar_adunit: false
-    text_link_label: View recent posts
+    text_link_label: View recent interviews
     text_link_url: /interviews/
 description: "Add interview description here"
 layout: list
@@ -17,11 +17,11 @@ show_post_date: true
 show_post_thumbnail: true
 sidebar:
   author: The Shiny Dev Series Team
-  description: "Add description here"
-  show_sidebar_adunit: true
+  description: ""
+  show_sidebar_adunit: false
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml
-  title: More Information
+  title: Episode Guests
 thumbnail_left: true
 title: Shiny Developer Series Interviews
 ---

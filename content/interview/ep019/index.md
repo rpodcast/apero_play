@@ -12,7 +12,8 @@ description: A brand new season of the Shiny Developer Series kicks off with RSt
   about the origins of Shiny and advice for those just starting out. For those already
   familiar with Shiny we discuss debugging, how to level up your skills, and best
   practices for seeking help and contributing to the community.
-guests: hwickham
+guests: 
+- hwickham
 youtube: PJsIO8C9xp0
 ---
 
@@ -32,7 +33,7 @@ youtube: PJsIO8C9xp0
 
 [8:30](https://www.youtube.com/watch?v=PJsIO8C9xp0&t=8m30s) Shiny touches on data analysis alongside software engineering and programming
 
-[12:41](https://www.youtube.com/watch?v=PJsIO8C9xp0&t=12m41s) Best ways to get started with Shiny 
+[12:41](https://www.youtube.com/watch?v=PJsIO8C9xp0&t=12m41s) Best ways to get started with Shiny
 
 [14:53](https://www.youtube.com/watch?v=PJsIO8C9xp0&t=14m53s) Value of tidy evaluation with Shiny
 

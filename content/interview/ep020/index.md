@@ -14,7 +14,8 @@ description: Episode 20 of the Shiny Developer series is here! As someone who ha
   David leads us through a comprehensive demonstration of amazing new capabilities
   of the awesome bs4Dash package, part of the RinteRface project. I hope you enjoy
   this episode!
-guests: dgranjon
+guests: 
+- dgranjon
 youtube: mxvMaoXOm70
 ---
 

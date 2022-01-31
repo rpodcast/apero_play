@@ -10,7 +10,8 @@ description: In episode 13 of the Shiny Developer Series, we continue our conver
   demonstrations of the key features that are part of the brand new plumber 1.0 release,
   including brand new serializers and parsers for custom objects, a new tidy API compliant
   with magrittr pipelines, utilizing asynchronous execution, and more.
-guests: bschloerke
+guests: 
+- bschloerke
 youtube: qOQMdtPdfU4
 ---
 

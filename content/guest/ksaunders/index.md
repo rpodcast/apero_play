@@ -2,6 +2,7 @@
 draft: no
 excerpt: Lecturer
 layout: single
+date: '2022-01-17'
 links:
 - icon: link
   icon_pack: fas

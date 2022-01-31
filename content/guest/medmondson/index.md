@@ -2,6 +2,7 @@
 draft: no
 excerpt: Cloud Data Engineer
 layout: single
+date: '2019-06-21'
 links:
 - icon: link
   icon_pack: fas

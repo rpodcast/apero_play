@@ -10,7 +10,8 @@ description: We have another fun installment of the Shiny Developer Series in ep
   and the ways she has wielded some magical integrations of Shiny and javascript to
   create powerful applications in life sciences. Plus you will not want to miss the
   inside story behind the shinykeyboard widget!
-guests: mgans
+guests: 
+- mgans
 youtube: wN6OXxE8Fro
 ---
 
@@ -26,14 +27,13 @@ youtube: wN6OXxE8Fro
 * `shinykeyboard` R package to create an on-screen keyboard as a custom R Shiny input binding: [https://github.com/willdebras/shinykeyboard](github.com/willdebras/shinykeyboard)
 * dreamRs Shiny gallery: [http://shinyapps.dreamrs.fr/](shinyapps.dreamrs.fr)
 
-
 ## Episode Timestamps
 
 [0:00](https://www.youtube.com/watch?v=wN6OXxE8Fro&t=0m0s) Episode introduction
 
 [4:30](https://www.youtube.com/watch?v=wN6OXxE8Fro&t=4m30s) TidyBlocks tidyblocks.tech. A block-based tool for teaching basic data science.
 
-[7:00](https://www.youtube.com/watch?v=wN6OXxE8Fro&t=7m00s) Garrick Aden-Buie, https://www.garrickadenbuie.com/
+[7:00](https://www.youtube.com/watch?v=wN6OXxE8Fro&t=7m00s) Garrick Aden-Buie, <https://www.garrickadenbuie.com>
 
 [7:45](https://www.youtube.com/watch?v=wN6OXxE8Fro&t=7m45s) shinyBody. Everyone asks, “What are good ways to level up on R and Shiny?”, the shinyBody Shiny app is a relatively simple, focused Shiny app that helps you get JavaScript started talking to R.
 

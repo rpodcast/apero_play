@@ -2,7 +2,7 @@
 draft: no
 excerpt: A unique perspective on the spread of COVID-19 brought to life with Kate
   Saunder's coronaSweeper Shiny app.
-layout: single
+layout: single-sidebar
 title: 'Episode 28: The transformative effects of Shiny with the coronaSweeper app'
 date: '2022-01-17'
 description: The Shiny Developer Series spotlight on the 2021 Shiny Contest continues
@@ -13,7 +13,8 @@ description: The Shiny Developer Series spotlight on the 2021 Shiny Contest cont
   algorithms and user experience of the application frontend. This was a very inspiring
   conversation that demonstrates the ways Shiny can be transformative to teaching
   real principles in mathematics, statistics, and beyond!
-guests: ksaunders
+guests: 
+- ksaunders
 youtube: XqLx233W97U
 ---
 
@@ -26,9 +27,9 @@ youtube: XqLx233W97U
 
 ## Episode Timestamps
 
-[00:00:00](https://youtube.com/watch?v=XqLx233W97U&t=0s) Episode Introduction <br> 
-[00:04:45](https://youtube.com/watch?v=XqLx233W97U&t=285s) Inspiration behind coronaSweeper <br> 
-[00:08:15](https://youtube.com/watch?v=XqLx233W97U&t=495s) Demo of coronaSweeper <br> 
-[00:14:35](https://youtube.com/watch?v=XqLx233W97U&t=875s) Code walkthrough <br> 
-[00:43:10](https://youtube.com/watch?v=XqLx233W97U&t=2590s) Shiny for teaching? <br> 
-[00:50:20](https://youtube.com/watch?v=XqLx233W97U&t=3020s) Episode wrapup <br> 
+[00:00:00](https://youtube.com/watch?v=XqLx233W97U&t=0s) Episode Introduction </br>
+[00:04:45](https://youtube.com/watch?v=XqLx233W97U&t=285s) Inspiration behind coronaSweeper </br>
+[00:08:15](https://youtube.com/watch?v=XqLx233W97U&t=495s) Demo of coronaSweeper </br>
+[00:14:35](https://youtube.com/watch?v=XqLx233W97U&t=875s) Code walkthrough </br>
+[00:43:10](https://youtube.com/watch?v=XqLx233W97U&t=2590s) Shiny for teaching? </br>
+[00:50:20](https://youtube.com/watch?v=XqLx233W97U&t=3020s) Episode wrapup </br>

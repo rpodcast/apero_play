@@ -2,6 +2,7 @@
 draft: no
 excerpt: Statistician
 layout: single
+date: '2020-08-20'
 links:
 - icon: link
   icon_pack: fas
