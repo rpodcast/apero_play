@@ -75,8 +75,8 @@ params:
   utterances:
     issue_term: pathname
     label: 'comments :crystal_ball:'
-    repo_name: apreshill/apero
-    theme: boxy-light
+    repo_name: shinydevseries/shinydevseries_site
+    theme: photon-dark
     use_utterances: yes
 taxonomies:
   category: categories
