@@ -30,7 +30,7 @@ markup:
     ordered: no
     startLevel: 2
 params:
-  custom_theme: shinydevseries
+  custom_theme: shinydevseries_dark
   customheadingFontFamily: 'Rajdhani'
   customtextFontFamily: 'Saira'
   description: Description for Shiny Dev Series.
