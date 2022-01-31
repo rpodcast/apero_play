@@ -7,6 +7,10 @@ links:
   icon_pack: fas
   name: RStudio
   url: https://rstudio.com
+- icon: link
+  icon_pack: fas
+  name: Duke University
+  url: https://duke.edu
 - icon: video
   icon_pack: fas
   name: E9
