@@ -39,10 +39,10 @@ params:
   textFontFamily: ''
   logo: /img/shinydevseries_hex.png
   mainSections:
-    - blog
+    #- blog
     - interview
     - guest
-    - project
+    #- project
   math:
     renderer: katex
   navallcaps: yes
@@ -92,19 +92,15 @@ menu:
       title: Contact form
       url: /contact/
       weight: 2
-    - name: Contributors
-      title: Contributors
-      url: /contributors/
-      weight: 3
   header:
     - name: About
       title: About Blogophonic
       url: /about/
       weight: 3
-    - name: Blog
-      title: Blog
-      url: /blog/
-      weight: 4
+#    - name: Blog
+#      title: Blog
+#      url: /blog/
+#      weight: 4
     - name: Interviews
       title: Interviews
       url: /interview/
@@ -113,14 +109,14 @@ menu:
       title: Interview Guests
       url: /guest/
       weight: 2
-    - name: A collection
-      title: A collection
-      url: /collection/
-      weight: 5
-    - name: Elements
-      title: Element Page
-      url: /elements/
-      weight: 6
+#    - name: A collection
+#      title: A collection
+#      url: /collection/
+#      weight: 5
+#    - name: Elements
+#      title: Element Page
+#      url: /elements/
+#      weight: 6
 privacy:
   disqus:
     disable: no
