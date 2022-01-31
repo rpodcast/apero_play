@@ -30,8 +30,8 @@ markup:
     ordered: no
     startLevel: 2
 params:
-  custom_theme: shinydevseries_dark
-  customheadingFontFamily: 'Titillium Web'
+  custom_theme: shinydevseries
+  customheadingFontFamily: 'Rajdhani'
   customtextFontFamily: 'Saira'
   description: Description for Shiny Dev Series.
   favicon: /img/favicon.ico
