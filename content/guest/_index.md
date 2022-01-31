@@ -3,7 +3,7 @@ author: The Shiny Dev Series Team
 cascade:
   show_author_byline: true
   show_comments: false
-  show_post_date: true
+  show_post_date: false
   sidebar:
     show_sidebar_adunit: true
     text_link_label: View all guests
@@ -11,7 +11,7 @@ cascade:
 description: A gallery of the previous guests on the Shiny Dev Series!
 layout: list-grid
 show_author_byline: true
-show_button_links: false
+show_button_links: true
 show_post_date: false
 show_post_thumbnail: true
 sidebar:
