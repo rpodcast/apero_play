@@ -6,13 +6,13 @@ authors:
   avatar_shape: rounded # circle, square, rounded, leave blank to exclude
   avatar_image: eric-avatar.png
   show_social_links: true # specify social accounts in site config
-  audio_link_label: "How to say my name" # leave blank to exclude
+  audio_link_label: "" # leave blank to exclude
 - author: "Curtis Kephart"
-  role: "Contributor"
+  role: "Executive Producer"
   avatar_shape: rounded 
   avatar_image: curtis-avatar.jpg
   show_social_links: false 
-  audio_link_label: "How to say my name" # leave blank to exclude
+  audio_link_label: "" # leave blank to exclude
 ---
 
 ** index doesn't contain a body, just front matter above.
