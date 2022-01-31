@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: What to add here?
+description: ""
 image_left: true
 images:
 - https://shinydevseries-assets.us-east-1.linodeobjects.com/about_page_pic.gif
