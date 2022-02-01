@@ -88,10 +88,6 @@ menu:
       title: License
       url: /license/
       weight: 1
-    - name: Contact
-      title: Contact form
-      url: /contact/
-      weight: 2
   header:
     - name: About
       title: About Blogophonic
@@ -109,6 +105,10 @@ menu:
       title: Interview Guests
       url: /guest/
       weight: 2
+    - name: Contact
+      title: Contact form
+      url: /contact/
+      weight: 4
 #    - name: A collection
 #      title: A collection
 #      url: /collection/
