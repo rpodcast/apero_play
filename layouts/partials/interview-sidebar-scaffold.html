@@ -7,9 +7,12 @@
 
 <div class="blog-info ph4 pt4 pb4 pb0-l">
   {{ partial "interview-sidebar-header.html" $section }}
+  <!--<p>{{ $section }} {{ $section }} {{ $is_root }}</p>-->
   <!--{{ partial "interview-sidebar-guest.html" .Params.guests }}-->
-  {{ range $guestpages }}
-    <p>{{ . }}</p>
+  <!-- range $guestpages }}-->
+  {{ range (where $guestpages ".File.ContentBaseName" "ksaunders") }}
+    <!--<p>{{ .Params.excerpt }}</p>--><!--Getting params works! -->
+    <p>{{ .File.ContentBaseName }}</p>
   {{ end }}
   {{ range .Params.guests }}
     {{ $guest := . }}
