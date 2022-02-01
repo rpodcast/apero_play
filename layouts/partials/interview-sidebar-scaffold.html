@@ -5,7 +5,7 @@
 
 <!--{{ partial "shared/sidebar/sidebar-image.html" $page }}-->
 
-<br class="blog-info ph4 pt4 pb4 pb0-l">
+<div class="blog-info ph4 pt4 pb4 pb0-l">
   {{ partial "interview-sidebar-header.html" $section }}
   <!--<p>{{ $section }} {{ $section }} {{ $is_root }}</p>-->
   <!--{{ partial "interview-sidebar-guest.html" .Params.guests }}-->
@@ -18,23 +18,20 @@
     {{ $guest := . }}
     <!--<p>From params.guests range {{ $guest }}</p>-->
     {{ range (where $guestpages ".File.ContentBaseName" $guest) }}
-      <p>From double loop range </p></br>
-      <p>{{ .File.ContentBaseName }}</p>
-      <p>{{ .RelPermalink }}</p>
       {{- $images := .Resources.ByType "image" -}}
       {{ $leaf := $images.GetMatch "*feature*" }}
       {{- $hex := $images.GetMatch "*hex*" -}}
       {{- $thumbnail := cond (ne $hex nil) $hex $leaf -}}
-      <p>{{ $leaf }}</p>
-      <img class="h4 w4 dib br3" src="{{ $thumbnail.RelPermalink }}">
       <div class="aspect-ratio aspect-ratio--1x1 {{ if (ne $hex nil) }}contain{{ else }}cover{{ end }} dim"{{ with $thumbnail }}style="background: url('{{ .RelPermalink | absURL }}') center center no-repeat"{{ end }}><a href="{{ .Permalink }}" class="w-100 absolute top-0 bottom-0"></a></div>
+      <header>
+        <h1 class="f3 f4-l mv2 lh-title fw4"><a href="{{ .RelPermalink }}" class="db">{{ .Params.Title | markdownify }}</a></h1>
+      </header>
+      <p class="f6 lh-copy">{{ .Params.excerpt }}</p>
       <div class="site-social-links db v-mid pv2">
         {{ partial "interview-sidebar-social-links.html" . }}
       </div>
-
     {{ end }}
   {{ end }}
-  {{ partial "interview-sidebar-link.html" .Params.sidebar }}
 </div>
 
 {{ partial "shared/sidebar/sidebar-adunit.html" .Params.sidebar }}
