@@ -1,7 +1,7 @@
 ---
 draft: no
 excerpt: A tour of the massive new features in plumber 1.0!
-layout: single-series
+layout: single-sidebar
 title: 'Episode 13: Inside Plumber 1.0 (Barret Schloerke Part 2)'
 date: '2020-09-17'
 description: In episode 13 of the Shiny Developer Series, we continue our conversation
@@ -18,7 +18,7 @@ youtube: qOQMdtPdfU4
 ## Resources mentioned in the episode
 
 * `plumber` allows you to create a web API by merely decorating your existing R source code with `roxygen2` style comments.
-  * Site: https://www.rplumber.io/
+  * Site: <https://www.rplumber.io/>
   * Demos:
     * NEW - Hex logo and website!
     * NEW - pipe-able programatic interface
@@ -27,14 +27,14 @@ youtube: qOQMdtPdfU4
       * Process incoming POST body data
       * Ex: HTML forms, multipart forms, csv, tsv, json, yaml, feather and rds.
       * Like serializers, register new POST body parsers
-      * Site: https://www.rplumber.io/reference/parsers.html
+      * Site: <https://www.rplumber.io/reference/parsers.html>
     * More Serializers!
       * Serialize outgoing route data
       * Ex: plain `text`, `json`, `yaml`, `csv`, `tsv`, `rds`, `feather`
       * NEW - Register image serializers: `svg`, `tiff`, `bmp`, `pdf`. (Pre existing: `png`, `jpeg`)
-      * Site: https://www.rplumber.io/reference/serializers.html
+      * Site: <https://www.rplumber.io/reference/serializers.html>
     * NEW - Download return values as attachments!
-      * Site: https://www.rplumber.io/reference/as_attachment.html
+      * Site: <https://www.rplumber.io/reference/as_attachment.html>
       * Demo: `plumb_api("plumber", "16-attachment") %>% pr_run()`
     * NEW - Async / promises
       * Demo: `plumb("plumber/plumber-future.R") %>% pr_run()`
@@ -47,18 +47,17 @@ youtube: qOQMdtPdfU4
   * Practical plumber patterns  (James Blair): [rstudio.com/resources/rstudioconf-2020/practical-plumber-patterns/](https://rstudio.com/resources/rstudioconf-2020/practical-plumber-patterns/)
 * Bike Prediction example application with plumber API and Shiny: [solutions.rstudio.com/tour/bike_predict/](https://solutions.rstudio.com/tour/bike_predict/)
 
-
 ## Episode Timestamps
 
 0:00 - Intro
 
-[1:14](https://www.youtube.com/watch?v=qOQMdtPdfU4&t=1m14s) - Introduction to plumber 
+[1:14](https://www.youtube.com/watch?v=qOQMdtPdfU4&t=1m14s) - Introduction to plumber
 
 [4:14](https://www.youtube.com/watch?v=qOQMdtPdfU4&t=4m14s) - Example of plumber API
 
 [7:14](https://www.youtube.com/watch?v=qOQMdtPdfU4&t=7m14s) - Pipeable interface for plumber
 
-[9:19](https://www.youtube.com/watch?v=qOQMdtPdfU4&t=9m19s) - plumber's new hex logo! 
+[9:19](https://www.youtube.com/watch?v=qOQMdtPdfU4&t=9m19s) - plumber's new hex logo!
 
 [9:24](https://www.youtube.com/watch?v=qOQMdtPdfU4&t=9m24s) - Serializers in plumber
 

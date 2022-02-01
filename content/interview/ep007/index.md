@@ -1,7 +1,7 @@
 ---
 draft: no
 excerpt: 'Recording of RStudio webinar: shinyWidgets and enhancing user interfaces'
-layout: single-series
+layout: single-sidebar
 title: 'Episode 7: shinyWidgets and dreamRs'
 date: '2019-11-15'
 description: In this webinar originally broadcast live in partnership with RStudio

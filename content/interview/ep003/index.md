@@ -1,7 +1,7 @@
 ---
 draft: no
 excerpt: How Shiny is a first-class citizen in {googleAnalyticsR} and beyond!
-layout: single-series
+layout: single-sidebar
 title: 'Episode 3: {googleAnalyticsR} and Linking Shiny to Complex APIs'
 date: '2019-06-21'
 description: In this webinar originally broadcast live in partnership with RStudio

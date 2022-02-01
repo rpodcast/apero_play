@@ -15,8 +15,7 @@ intro: |
       + [PocketCasts](https://pca.st/8p3v)
       + [General RSS Feed](https://feeds.fireside.fm/shinydevseries/rss)
 show_outro: true
-outro: |
-  <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
+outro: ""
 ---
 
 ** index doesn't contain a body, just front matter above.

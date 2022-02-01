@@ -1,7 +1,7 @@
 ---
 draft: no
 excerpt: Recording of RStudio webinar with Winston Chang & Curtis Kephart
-layout: single-series
+layout: single-sidebar
 title: 'Episode 1: Shiny Development - Past and Future'
 date: '2019-05-03'
 description: In this joint production with RStudio Community, I had the pleasure of

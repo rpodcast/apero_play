@@ -1,7 +1,7 @@
 ---
 draft: no
 excerpt: Using Shiny and htmlwidgets to help out friends and work alike!
-layout: single-series
+layout: single-sidebar
 title: 'Episode 16: Jiena Gu McLellan'
 date: '2020-11-21'
 description: In episode 16 of the Shiny Developer Series, we welcome software developer

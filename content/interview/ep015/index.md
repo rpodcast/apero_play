@@ -1,7 +1,7 @@
 ---
 draft: no
 excerpt: Innovating in Life Sciences using Shiny & JavaScript magic with Maya Gans!
-layout: single-series
+layout: single-sidebar
 title: 'Episode 15: Maya Gans'
 date: '2020-10-22'
 description: We have another fun installment of the Shiny Developer Series in episode

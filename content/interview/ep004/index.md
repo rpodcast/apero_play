@@ -2,7 +2,7 @@
 draft: no
 excerpt: David Granjon demonstrates how to create a feature-rich Shiny application
   with {bs4Dash}!
-layout: single-series
+layout: single-sidebar
 title: Introduction to {bs4Dash}!
 date: '2019-10-24'
 description: In [episode 4](/ep4) of the Shiny Developer Series, [David Granjon](https://twitter.com/divadnojnarg)

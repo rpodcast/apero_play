@@ -1,7 +1,7 @@
 ---
 draft: no
 excerpt: Impact of Shiny in life sciences with Yoni Sidi!
-layout: single-series
+layout: single-sidebar
 title: 'Episode 11: Yoni Sidi'
 date: '2020-08-20'
 description: In episode 11 of the Shiny Developer Series, we are joined by R package

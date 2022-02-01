@@ -1,7 +1,7 @@
 ---
 draft: no
 excerpt: The origins of Mastering Shiny and key advice from the architect of the Tidyverse!
-layout: single-series
+layout: single-sidebar
 title: 'Episode 19: Climbing the Ladder of Shiny Mastery with Hadley Wickham'
 date: '2021-03-10'
 description: A brand new season of the Shiny Developer Series kicks off with RStudio's

@@ -2,7 +2,7 @@
 draft: no
 excerpt: Applying Shiny to high-profile projects and production application development
   advice with Appsilon's Pedro da Silva!
-layout: single-series
+layout: single-sidebar
 title: 'Episode 23: Tales of Shiny in production with Pedro Silva'
 date: '2021-10-15'
 description: One of the common themes seen throughout the Shiny Developer Series is

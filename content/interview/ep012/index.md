@@ -1,7 +1,7 @@
 ---
 draft: no
 excerpt: Under the reactivity curtain with Barrett Schloerke!
-layout: single-series
+layout: single-sidebar
 title: 'Episode 12: Barret Schloerke Part 1 (reactlog)'
 date: '2020-09-09'
 description: 'In episode 12 of the Shiny Developer Series, we begin a multi-part series
@@ -24,23 +24,23 @@ youtube: RcnfYcSsY8w
 * `{autocogs}`: [github.com/schloerke/autocogs](https://github.com/schloerke/autocogs)
 * `{reactlog}` - Provides a visual insight into that __black box__ of Shiny reactivity: [rstudio.github.io/reactlog](https://rstudio.github.io/reactlog)
 * Demos:
-    * (Launch reactlog: `cmd + F3` or `ctrl + f3`)
-    * `shiny::runApp("reactlog/reactlog-pythagorus.R")`
-    * `shiny::runApp("reactlog/reactlog-pythagorus-broken.R")`
-    * `shiny::runApp("reactlog/reactlog-cranwhales.R")`
-    * `shiny::runApp("reactlog/reactlog-anti-pattern.R")`
+  * (Launch reactlog: `cmd + F3` or `ctrl + f3`)
+  * `shiny::runApp("reactlog/reactlog-pythagorus.R")`
+  * `shiny::runApp("reactlog/reactlog-pythagorus-broken.R")`
+  * `shiny::runApp("reactlog/reactlog-cranwhales.R")`
+  * `shiny::runApp("reactlog/reactlog-anti-pattern.R")`
 
 ## Episode Timestamps
 
 0:00 - Intro
 
-[0:42](https://www.youtube.com/watch?v=RcnfYcSsY8w&t=0m42s) - Barret’s background, how he got started with R, Shiny, and RStudio. 
+[0:42](https://www.youtube.com/watch?v=RcnfYcSsY8w&t=0m42s) - Barret’s background, how he got started with R, Shiny, and RStudio.
 
 [3:41](https://www.youtube.com/watch?v=RcnfYcSsY8w&t=3m41s) - Bokey, Trelliscope, Ryan Hafen
 
 [4:36](https://www.youtube.com/watch?v=RcnfYcSsY8w&t=4m36s) - Autocogs
 
-[5:56](https://www.youtube.com/watch?v=RcnfYcSsY8w&t=5m56s) - Starting with RStudio 
+[5:56](https://www.youtube.com/watch?v=RcnfYcSsY8w&t=5m56s) - Starting with RStudio
 
 [7:31](https://www.youtube.com/watch?v=RcnfYcSsY8w&t=7m31s) - Introduction to `reactlog`
 

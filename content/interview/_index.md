@@ -9,7 +9,7 @@ cascade:
     show_sidebar_adunit: false
     text_link_label: View recent interviews
     text_link_url: /interviews/
-description: "Add interview description here"
+description: "Enjoy the amazing conversations, demonstrations, and much more from the vast Shiny community!"
 layout: list
 show_author_byline: true
 show_button_links: false

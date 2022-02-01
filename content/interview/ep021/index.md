@@ -1,7 +1,7 @@
 ---
 draft: no
 excerpt: How the new Shiny App Stories came to life with Nick Strayer
-layout: single-series
+layout: single-sidebar
 title: 'Episode 21: Shiny App Stories with Nick Strayer'
 date: '2021-06-11'
 description: In episode 21 of the Shiny Developer Series, I have the pleasure of welcoming

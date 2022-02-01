@@ -1,7 +1,7 @@
 ---
 draft: no
 excerpt: Shiny Dev Center & education tips with Mine Cetinkaya-Rundel
-layout: single-series
+layout: single-sidebar
 title: 'Episode 9: Shiny Dev Center & Education with Mine Cetinkaya-Rundel'
 date: '2020-03-10'
 description: The Shiny Developer Series is back!  In our first session of 2020, we

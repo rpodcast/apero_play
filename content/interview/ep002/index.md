@@ -1,7 +1,7 @@
 ---
 draft: no
 excerpt: Recording of RStudio webinar with Colin Fay & Curtis Kephart
-layout: single-series
+layout: single-sidebar
 title: 'Episode 2: {golem} and Effective Shiny Development Methods'
 date: '2019-06-07'
 description: In this webinar originally broadcast live in partnership with RStudio
@@ -29,4 +29,3 @@ youtube: OU1-CkSVdTI
 * freeCodeCamp: [learn.freecodecamp.org](https://learn.freecodecamp.org/)
 * Web Fundamentals - Google's opinionated reference for building amazing web experiences: [developers.google.com/web/fundamentals](https://developers.google.com/web/fundamentals/)
 * Corecursive Podcast episode 19 - Test in Production with Charity Majors: [corecursive.com/019-test-in-production-with-charity-majors](https://corecursive.com/019-test-in-production-with-charity-majors/)
-

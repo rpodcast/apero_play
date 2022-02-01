@@ -2,7 +2,7 @@
 draft: no
 excerpt: 'Recording of RStudio webinar: Advanced user interfaces and use cases of
   shinyjqui with Yang Tang'
-layout: single-series
+layout: single-sidebar
 title: 'Episode 6: shinyjqui and advanced user interfaces'
 date: '2019-10-25'
 description: In this webinar originally broadcast live in partnership with RStudio

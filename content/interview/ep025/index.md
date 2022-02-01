@@ -1,7 +1,7 @@
 ---
 draft: no
 excerpt: The journey to production in more ways than one!
-layout: single-series
+layout: single-sidebar
 title: 'Episode 25: Colin Fay is back!'
 date: '2021-12-03'
 description: One of my biggest joys of the Shiny Developer Series is watching the
@@ -29,10 +29,10 @@ youtube: agwgiLpiBFo
 
 ## Episode Timestamps
 
-[00:00:00](https://youtube.com/watch?v=agwgiLpiBFo&t=0s) Episode Introduction <br> 
-[00:01:15](https://youtube.com/watch?v=agwgiLpiBFo&t=75s) Engineering Production-Grade Shiny Apps <br> 
-[00:11:00](https://youtube.com/watch?v=agwgiLpiBFo&t=660s) The current state and future of golem <br> 
-[00:11:20](https://youtube.com/watch?v=agwgiLpiBFo&t=680s) 'Once you go golem, you never go back!' <br> 
-[00:26:09](https://youtube.com/watch?v=agwgiLpiBFo&t=1569s) HTML Template Demo <br> 
-[00:37:35](https://youtube.com/watch?v=agwgiLpiBFo&t=2255s) brochure package discussion <br> 
-[01:04:10](https://youtube.com/watch?v=agwgiLpiBFo&t=3850s) Advice for Shiny developers seeking to get their apps in shape for production <br>
+[00:00:00](https://youtube.com/watch?v=agwgiLpiBFo&t=0s) Episode Introduction </br>
+[00:01:15](https://youtube.com/watch?v=agwgiLpiBFo&t=75s) Engineering Production-Grade Shiny Apps </br>
+[00:11:00](https://youtube.com/watch?v=agwgiLpiBFo&t=660s) The current state and future of golem </br>
+[00:11:20](https://youtube.com/watch?v=agwgiLpiBFo&t=680s) 'Once you go golem, you never go back!' </br>
+[00:26:09](https://youtube.com/watch?v=agwgiLpiBFo&t=1569s) HTML Template Demo </br>
+[00:37:35](https://youtube.com/watch?v=agwgiLpiBFo&t=2255s) brochure package discussion </br>
+[01:04:10](https://youtube.com/watch?v=agwgiLpiBFo&t=3850s) Advice for Shiny developers seeking to get their apps in shape for production </br>

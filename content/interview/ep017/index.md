@@ -2,7 +2,7 @@
 draft: no
 excerpt: An enlightening view on the life of a Shiny consultant and giving back to
   the Shiny open-source community with Dean Attali!
-layout: single-series
+layout: single-sidebar
 title: 'Episode 17: Dean Attali'
 date: '2020-12-05'
 description: In episode 17 of the Shiny Developer Series, we welcome one of the earliest
@@ -23,19 +23,18 @@ youtube: yRGJDtOUP3Y
 * Attali Tech: [attalitech.com/](https://attalitech.com)
 * Dean's YouTube channel: [youtube.com/channel/UCR3No6pYhA1S7FZ0PbLKlgQ](https://www.youtube.com/channel/UCR3No6pYhA1S7FZ0PbLKlgQ)
 * `{shinyscreenshot} - Capture screenshots of entire paggs or parts of pages in Shiny apps: [daattali.com/shiny/shinyscreenshot-demo](https://daattali.com/shiny/shinyscreenshot-demo)
-+ `{shinyalert}` - Easily create pretty popup messages (modals) in Shiny: [daattali.com/shiny/shinyalert-demo](https://daattali.com/shiny/shinyalert-demo)
+* `{shinyalert}` - Easily create pretty popup messages (modals) in Shiny: [daattali.com/shiny/shinyalert-demo](https://daattali.com/shiny/shinyalert-demo)
 * `{shinyjs}` - Easily improve the user experience of your Shiny apps in seconds: [deanattali.com/shinyjs](https://deanattali.com/shinyjs)
 * `{timevis}` - An R package for creating timeline visualizations: [daattali.com/shiny/timevis-demo](https://daattali.com/shiny/timevis-demo)
 * `{htmlwidghts}`: [www.htmlwidgets.org](https://www.htmlwidgets.org/)
 * `{reactR}` - React for R: [react-r.github.io/reactR](https://react-r.github.io/reactR)
 * Clean Code - A Handbook of Agile Software Craftsmanship: [www.oreilly.com/library/view/clean-code-a/9780136083238](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)
 
-
 ## Episode Timestamps
 
 [0:00](https://www.youtube.com/watch?v=yRGJDtOUP3Y&t=0m0s) Episode introduction (with a special guest)
 
-[1:42](https://www.youtube.com/watch?v=yRGJDtOUP3Y&t=1m42s) Dean's Introduction 
+[1:42](https://www.youtube.com/watch?v=yRGJDtOUP3Y&t=1m42s) Dean's Introduction
 
 [3:52](https://www.youtube.com/watch?v=yRGJDtOUP3Y&t=3m52s) Getting started with R and Shiny
 

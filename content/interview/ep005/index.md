@@ -2,7 +2,7 @@
 draft: no
 excerpt: 'Recording of RStudio webinar: Exploring the power of custom javascript and
   shinysense with Nick Strayer!'
-layout: single-series
+layout: single-sidebar
 title: 'Episode 5: shinysense and custom javascript visualizations'
 date: '2019-09-13'
 description: In this webinar originally broadcast live in partnership with RStudio
@@ -26,4 +26,3 @@ youtube: W-yifR-RtFY
 * `{shinysense}` - Help Shiny sense the world around it: [nickstrayer.me/shinysense](http://nickstrayer.me/shinysense/index.html)
 * `{r2d3}` - R interface to D3 visualizations: [rstudio.github.io/r2d3](https://rstudio.github.io/r2d3)
 * Interactive Data Visualization for the Web (2nd edition): [shop.oreilly.com/product/0636920026938.do](http://shop.oreilly.com/product/0636920026938.do)
-

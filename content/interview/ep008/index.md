@@ -1,7 +1,7 @@
 ---
 draft: no
 excerpt: 'Recording of RStudio webinar: Exploring yonder'
-layout: single-series
+layout: single-sidebar
 title: 'Episode 8: Exploring yonder'
 date: '2019-12-06'
 description: In this last webinar of the Shiny Developer Series for 2019, we are joined
