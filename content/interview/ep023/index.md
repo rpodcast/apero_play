@@ -18,6 +18,7 @@ description: One of the common themes seen throughout the Shiny Developer Series
 guests: 
 - psilva
 youtube: wGfYYa1rfbg
+aliases: /ep23
 ---
 
 ## Resources mentioned in the episode

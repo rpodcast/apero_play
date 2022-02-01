@@ -17,6 +17,7 @@ description: One of my biggest joys of the Shiny Developer Series is watching th
 guests: 
 - cfay
 youtube: agwgiLpiBFo
+aliases: /ep25
 ---
 
 ## Resources mentioned in the episode

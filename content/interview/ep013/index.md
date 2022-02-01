@@ -13,6 +13,7 @@ description: In episode 13 of the Shiny Developer Series, we continue our conver
 guests: 
 - bschloerke
 youtube: qOQMdtPdfU4
+aliases: /ep13
 ---
 
 ## Resources mentioned in the episode

@@ -13,6 +13,7 @@ description: The Shiny Developer Series is back!  In our first session of 2020, 
 guests: 
 - mrundel
 youtube: eGpTXM0hUqA
+aliases: /ep9
 ---
 
 ## Resources mentioned in the episode

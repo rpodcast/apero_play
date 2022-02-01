@@ -17,6 +17,7 @@ description: Episode 20 of the Shiny Developer series is here! As someone who ha
 guests: 
 - dgranjon
 youtube: mxvMaoXOm70
+aliases: /ep20
 ---
 
 ## Resources mentioned in the episode

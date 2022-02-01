@@ -15,6 +15,7 @@ description: In this webinar originally broadcast live in partnership with RStud
 guests: 
 - ytang
 youtube: hy1LKmRwhmY
+aliases: /ep6
 ---
 
 ## Resources mentioned in the episode

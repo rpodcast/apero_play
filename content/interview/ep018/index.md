@@ -14,6 +14,7 @@ description: In episode 18 of the Shiny Developer Series, we chat about how Shin
 guests: 
 - tcashorali
 youtube: LjN1khZrppo
+aliases: /ep18
 ---
 
 ## Resources mentioned in the episode

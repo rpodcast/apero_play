@@ -13,6 +13,7 @@ description: We have another fun installment of the Shiny Developer Series in ep
 guests: 
 - mgans
 youtube: wN6OXxE8Fro
+aliases: /ep15
 ---
 
 ## Resources mentioned in the episode

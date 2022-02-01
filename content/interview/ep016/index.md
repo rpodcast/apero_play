@@ -13,6 +13,7 @@ description: In episode 16 of the Shiny Developer Series, we welcome software de
 guests: 
 - jmclellan
 youtube: VhyIKMFDTl4
+aliases: /ep16
 ---
 
 ## Resources mentioned in the episode

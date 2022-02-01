@@ -15,6 +15,7 @@ description: In this webinar originally broadcast live in partnership with RStud
 guests: 
 - cfay
 youtube: OU1-CkSVdTI
+aliases: /ep2
 ---
 
 ## Resources mentioned in the episode

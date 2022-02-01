@@ -19,6 +19,7 @@ guests:
 - hsontrop
 - krussell
 youtube: SkFLHbHrPD4
+aliases: /ep26
 ---
 
 ## Resources mentioned in the episode

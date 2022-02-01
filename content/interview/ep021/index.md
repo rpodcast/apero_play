@@ -14,6 +14,7 @@ description: In episode 21 of the Shiny Developer Series, I have the pleasure of
 guests: 
 - nstrayer
 youtube: 84Vg7HKzd2E
+aliases: /ep21
 ---
 
 ## Resources mentioned in the episode

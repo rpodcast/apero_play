@@ -20,6 +20,7 @@ description: Earlier this year at RStudio Global, a lot of excitement among the 
 guests: 
 - csievert
 youtube: xTafvYX3zmE
+aliases: /ep22
 ---
 
 ## Resources mentioned in the episode

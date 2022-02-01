@@ -16,6 +16,7 @@ guests:
 - vperrier
 - fmeyer
 youtube: uvgAaF-7UpA
+aliases: /ep7
 ---
 
 ## Resources mentioned in the episode

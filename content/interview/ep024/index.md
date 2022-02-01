@@ -15,6 +15,7 @@ description: In episode 24 of the Shiny Developer Series, we kick off a series o
 guests: 
 - dbarkemeyer
 youtube: QzmrhPmKByA
+aliases: /ep24
 ---
 
 ## Resources mentioned in the episode

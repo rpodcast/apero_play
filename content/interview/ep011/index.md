@@ -12,6 +12,7 @@ description: In episode 11 of the Shiny Developer Series, we are joined by R pac
 guests: 
 - ysidi
 youtube: D79RoRgrdOE
+aliases: /ep11
 ---
 
 ## Resources mentioned in the episode

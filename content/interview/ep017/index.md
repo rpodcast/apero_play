@@ -14,6 +14,7 @@ description: In episode 17 of the Shiny Developer Series, we welcome one of the 
 guests: 
 - dattali
 youtube: yRGJDtOUP3Y
+aliases: /ep17
 ---
 
 ## Resources mentioned in the episode

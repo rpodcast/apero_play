@@ -17,6 +17,7 @@ description: In this webinar originally broadcast live in partnership with RStud
 guests: 
 - nstrayer
 youtube: W-yifR-RtFY
+aliases: /ep5
 ---
 
 ## Resources mentioned in the episode

@@ -14,6 +14,7 @@ description: In this packed episode of the Shiny Developer Series, we are joined
 guests: 
 - jcoene
 youtube: DOjbKYJ8R_s
+aliases: /ep10
 ---
 
 ## Resources mentioned in the episode

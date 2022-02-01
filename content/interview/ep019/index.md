@@ -15,6 +15,7 @@ description: A brand new season of the Shiny Developer Series kicks off with RSt
 guests: 
 - hwickham
 youtube: PJsIO8C9xp0
+aliases: /ep19
 ---
 
 ## Resources mentioned in the episode

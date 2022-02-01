@@ -15,6 +15,7 @@ description: In this webinar originally broadcast live in partnership with RStud
 guests: 
 - medmondson
 youtube: YBazPNSRhoc
+aliases: /ep3
 ---
 
 ## Resources mentioned in the episode

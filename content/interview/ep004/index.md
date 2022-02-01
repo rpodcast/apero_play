@@ -13,6 +13,7 @@ description: In [episode 4](/ep4) of the Shiny Developer Series, [David Granjon]
 guests: 
 - dgranjon
 youtube: vaK3sknxe4c
+aliases: /ep4
 ---
 
 ## Resources mentioned in the episode

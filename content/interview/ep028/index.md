@@ -16,6 +16,7 @@ description: The Shiny Developer Series spotlight on the 2021 Shiny Contest cont
 guests: 
 - ksaunders
 youtube: XqLx233W97U
+aliases: /ep28
 ---
 
 ## Resources mentioned in the episode

@@ -14,6 +14,7 @@ description: We conclude our multi-part series with RStudio software engineer Ba
 guests: 
 - bschloerke
 youtube: zqV4nUiO7-4
+aliases: /ep14
 ---
 
 ## Resources mentioned in the episode

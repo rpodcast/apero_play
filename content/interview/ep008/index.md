@@ -14,6 +14,7 @@ description: In this last webinar of the Shiny Developer Series for 2019, we are
 guests: 
 - nteetor
 youtube: TWqfik2INEQ
+aliases: /ep8
 ---
 
 ## Resources mentioned in the episode

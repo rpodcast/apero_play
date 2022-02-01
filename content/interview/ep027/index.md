@@ -19,6 +19,7 @@ guests:
 - hsontrop
 - krussell
 youtube: 8crXv5SBDLE
+aliases: /ep27
 ---
 
 ## Resources mentioned in the episode

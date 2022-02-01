@@ -15,6 +15,7 @@ description: 'In episode 12 of the Shiny Developer Series, we begin a multi-part
 guests: 
 - bschloerke
 youtube: RcnfYcSsY8w
+aliases: /ep12
 ---
 
 ## Resources mentioned in the episode

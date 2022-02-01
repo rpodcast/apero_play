@@ -15,6 +15,7 @@ description: In this joint production with RStudio Community, I had the pleasure
 guests: 
 - wchang
 youtube: kAYcIidygiU
+aliases: /ep1
 ---
 
 ## Resources mentioned in the episode
