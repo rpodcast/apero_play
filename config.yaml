@@ -52,7 +52,7 @@ params:
   navallcaps: yes
   orgLocal: Anywhere
   orgName: RStudio
-  sharing_image: /img/papillons.jpg
+  sharing_image: /img/shinydevseries_hex.png
   social:
     - icon: github
       icon_pack: fab
