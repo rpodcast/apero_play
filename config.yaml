@@ -30,11 +30,15 @@ markup:
     ordered: no
     startLevel: 2
 params:
-  custom_theme: shinydevseries
+  custom_theme: "shinydevseries"
   customheadingFontFamily: 'Rajdhani'
   customtextFontFamily: 'Saira'
+  #customheadingFontFamily: ''
+  #customtextFontFamily: ''
   description: Description for Shiny Dev Series.
   favicon: /img/favicon.ico
+  #headingFontFamily: 'serif'
+  #textFontFamily: 'sans-serif'
   headingFontFamily: ''
   textFontFamily: ''
   logo: /img/shinydevseries_hex.png
